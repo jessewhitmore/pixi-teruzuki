@@ -470,8 +470,8 @@ async function preload() {
   ]
 
   Assets.addBundle('fonts', [
-    { alias: 'ignite', src: '/public/font/ignite.otf' },
-    { alias: 'proximaNovaEC', src: '/public/font/proximaNovaEC.woff' },
+    { alias: 'ignite', src: 'https://assets.playground.xyz/JWhitmore/7131667e_Ignite.otf' },
+    { alias: 'proximaNovaEC', src: 'https://assets.playground.xyz/JWhitmore/1b47f0fb_proximaNovaEC.woff' },
 ]);
 
 //proximaNova-extraCondensed.otf
